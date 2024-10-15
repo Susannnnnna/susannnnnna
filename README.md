@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 ![me](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png)
 
 <!--
