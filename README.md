@@ -1,5 +1,5 @@
 ## Hi there 👋
-![me](./Portfolio/blob/master/assets/gifs/me_gif_cloud.jpg)
+![me](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png)
 
 <!--
 **Susannnnnna/susannnnnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
