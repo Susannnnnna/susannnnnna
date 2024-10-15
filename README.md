@@ -1,16 +1,10 @@
 ## 
-|  |  |
-| --- | --- |
-| ![me](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png) | ![q](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/illustrations_related_to_programming-removebg-preview.png) |
+![me](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png)
 
-<p align="left">
-  <img src="[URL_DO_OBRAZKA1](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png)" alt="Obrazek 1" width="400"/>
-</p>
-<p align="right">
-  <img src="[URL_DO_OBRAZKA2](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/illustrations_related_to_programming-removebg-preview.png)" alt="Obrazek 2" width="400"/>
-</p>
+
 
 <!--
+![q](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/illustrations_related_to_programming-removebg-preview.png)
 **Susannnnnna/susannnnnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
