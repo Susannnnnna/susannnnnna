@@ -1,5 +1,6 @@
 ## 
 ![me](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/me_gif_think_preview_rev_1.png)
+![q](https://github.com/Susannnnnna/Portfolio/blob/master/assets/gifs/illustrations_related_to_programming-removebg-preview.png)
 
 <!--
 **Susannnnnna/susannnnnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
