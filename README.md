@@ -1,4 +1,4 @@
-![main page img](https://github.com/Susannnnnna/susannnnnna/blob/main/assets/mural-removebg-preview.png)
+![main page img](https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo.png)
 
 ## 
 
