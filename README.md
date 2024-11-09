@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="200" height="500"/>
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="350" height="600"/>
 </div>
 
 
