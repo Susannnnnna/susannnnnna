@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Check out my 
+    Click(); // to open my 
     <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
         <b> Project </b>
     </a>
