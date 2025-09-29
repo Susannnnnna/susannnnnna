@@ -11,12 +11,6 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
-        <span style="font-size:2.5em; font-weight:bold;"> Project! </span>
-    </a>
-</p>
-
-<p align="center">
     <b> Created by Team::Human++ </b>
 </p>
 
