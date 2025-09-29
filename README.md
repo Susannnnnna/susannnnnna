@@ -13,6 +13,12 @@
 <p align="center">
     <i> Created with (bio)love & C++ by Team::Human++ </i>
 </p>
+</br>
+<p align="center">
+    <a href="https://susannnnnna.com/index.php/cooperation-contact/">
+        <b> Contact </b>
+    </a>
+</p>
 
 <!-- 
 <div align="center">
