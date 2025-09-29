@@ -1,6 +1,17 @@
+Check out my
+
+<div align="center">
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025.jpg" alt="robo" width="350" height="600"/>
+</div>
+
+PROJECT!
+
+<!-- 
 <div align="center">
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="350" height="600"/>
 </div>
+
+-->
 
 
 ## 
