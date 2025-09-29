@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025.jpg" alt="robo" width="350" height="600"/>
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025v2.jpg" alt="robo" width="350" height="600"/>
 </div>
 
 <p align="center">
