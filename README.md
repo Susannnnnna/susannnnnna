@@ -4,7 +4,7 @@
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025.jpg" alt="robo" width="350" height="600"/>
 </div>
 
-PROJECT!
+<p align="center"> [PROJECT!](https://github.com/humanplusplus/EarEEG_DemoApp) </p>
 
 <!-- 
 <div align="center">
