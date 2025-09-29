@@ -4,7 +4,11 @@
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025.jpg" alt="robo" width="350" height="600"/>
 </div>
 
-<h1 align="center"> [PROJECT!](https://github.com/humanplusplus/EarEEG_DemoApp) </h1>
+## About the project
+[Ear EEgo Demo App](https://github.com/humanplusplus/EarEEG_DemoApp)
+
+## Author
+**Team::Human++**
 
 <!-- 
 <div align="center">
