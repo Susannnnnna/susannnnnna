@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    <i> Created with love & C++ by Team::Human++ </i>
+    <i> Created with (bio)love & C++ by Team::Human++ </i>
 </p>
 
 <!-- 
