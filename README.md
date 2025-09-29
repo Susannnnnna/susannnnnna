@@ -1,4 +1,10 @@
-<h1 align="center"> Check out my </h1>
+<h1 align="center"> 
+    Check out my 
+    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
+        <b> Project </b>
+    </a>
+    for
+</h1>
 
 <div align="center">
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025.jpg" alt="robo" width="350" height="600"/>
