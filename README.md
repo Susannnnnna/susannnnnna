@@ -26,7 +26,7 @@
 <h1 align="center"> 
     If (hire-junior-cpp-dev) {
     <a href="https://susannnnnna.com/index.php/cooperation-contact/">
-        <b> WriteMe; </b>
+        <b> WriteMe(); </b>
     </a>
     }
 </h1>
