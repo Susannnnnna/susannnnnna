@@ -25,7 +25,7 @@
 
 <h1 align="center"> 
     If (hire-junior-cpp-dev) {
-    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
+    <a href="https://susannnnnna.com/index.php/cooperation-contact/">
         <b> WriteMe; </b>
     </a>
     }
