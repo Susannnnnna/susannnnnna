@@ -30,14 +30,11 @@
     </a>
     }
 </h1>
-
-
-<!-- 
+</br>
 <div align="center">
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="350" height="600"/>
 </div>
 
--->
 
 ## 
 
