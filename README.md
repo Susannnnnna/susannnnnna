@@ -1,3 +1,4 @@
+<!--
 <h1 align="center"> 
     Click(); // to open my 
     <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
@@ -13,12 +14,23 @@
 <p align="center">
     <i> Created with (bio)love & C++ by Team::Human++ </i>
 </p>
+
 </br>
 <p align="center">
     <a href="https://susannnnnna.com/index.php/cooperation-contact/">
-        <b> Contact </b>
+        <b> Write me! </b>
     </a>
 </p>
+-->
+
+<h1 align="center"> 
+    If (hire-junior-cpp-dev) {
+    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
+        <b> WriteMe; </b>
+    </a>
+    }
+</h1>
+
 
 <!-- 
 <div align="center">
@@ -26,7 +38,6 @@
 </div>
 
 -->
-
 
 ## 
 
