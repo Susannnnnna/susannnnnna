@@ -1,3 +1,17 @@
+<h1 align="center"> 
+    Click(); // to check my current projekt 
+    <a href="https://github.com/humanplusplus/EarEEG_DemoApp"></a>
+</h1>
+
+<div align="center">
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/screen_homePage.png" alt="robo" width="250"/>
+</div>
+
+<p align="center">
+    <i> Created with (bio)love & C++ by Team::Human++ </i>
+</p>
+<br/>
+
 <h3 align="center"> 
     If (hire-junior-cpp-dev) {
     <a href="https://susannnnnna.com/index.php/cooperation-contact/">
@@ -5,24 +19,6 @@
     </a>
     }
 </h3>
-</br>
-
-<h1 align="center"> 
-    Click(); // to check my current projekt 
-    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
-    </a>
-    for
-</h1>
-
-<div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/screen_homePage.png" alt="robo" width="250"/>
-</div>
-
-
-<p align="center">
-    <i> Created with (bio)love & C++ by Team::Human++ </i>
-</p>
-
 
 ## 
 
