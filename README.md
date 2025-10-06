@@ -1,7 +1,7 @@
 <h1 align="center">
     <p>
         <a href="https://github.com/humanplusplus/EarEEG_DemoApp">Click();</a>
-        // to check my current projekt
+        // to check my current project
     </p>
 </h1>
 
