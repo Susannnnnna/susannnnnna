@@ -1,28 +1,3 @@
-<!--
-<h1 align="center"> 
-    Click(); // to open my 
-    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
-        <b> Project </b>
-    </a>
-    for
-</h1>
-
-<div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/hackyeah2025v2.jpg" alt="robo" width="1550" height="1250"/>
-</div>
-
-<p align="center">
-    <i> Created with (bio)love & C++ by Team::Human++ </i>
-</p>
-
-</br>
-<p align="center">
-    <a href="https://susannnnnna.com/index.php/cooperation-contact/">
-        <b> Write me! </b>
-    </a>
-</p>
--->
-
 <h1 align="center"> 
     If (hire-junior-cpp-dev) {
     <a href="https://susannnnnna.com/index.php/cooperation-contact/">
@@ -34,6 +9,22 @@
 <div align="center">
     <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="350" height="600"/>
 </div>
+
+<h1 align="center"> 
+    Click(); // to check my current projekt 
+    <a href="https://github.com/humanplusplus/EarEEG_DemoApp">
+    </a>
+    for
+</h1>
+
+<div align="center">
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/screen_homePage.png" alt="robo" width="1550" height="1250"/>
+</div>
+
+
+<p align="center">
+    <i> Created with (bio)love & C++ by Team::Human++ </i>
+</p>
 
 
 ## 
