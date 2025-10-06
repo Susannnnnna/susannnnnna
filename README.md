@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-    <i> Created with (bio)love & C++ by Team::Human++ </i>
+    <i> Created with (bio)love, C++ & Qt by Team::Human++ </i>
 </p>
 <br/>
 
