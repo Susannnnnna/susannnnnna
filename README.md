@@ -1,14 +1,11 @@
-<h1 align="center"> 
+<h3 align="center"> 
     If (hire-junior-cpp-dev) {
     <a href="https://susannnnnna.com/index.php/cooperation-contact/">
         <b> WriteMe(); </b>
     </a>
     }
-</h1>
+</h3>
 </br>
-<div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/robo-removebg-preview(1).png" alt="robo" width="350" height="600"/>
-</div>
 
 <h1 align="center"> 
     Click(); // to check my current projekt 
@@ -18,7 +15,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/screen_homePage.png" alt="robo" width="1550" height="1250"/>
+    <img src="https://github.com/Susannnnnna/susannnnnna/blob/main/assets/screen_homePage.png" alt="robo" width="250"/>
 </div>
 
 
