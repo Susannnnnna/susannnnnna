@@ -16,7 +16,7 @@
 
 <h3 align="center"> 
     If (hire-junior-cpp-dev) {
-    <a href="https://susannnnnna.com/index.php/cooperation-contact/">
+    <a href="https://www.linkedin.com/in/paulina-zem%C5%82o-5996b21a0">
         <b> WriteMe(); </b>
     </a>
     }
