@@ -1,6 +1,6 @@
 <h1 align="center">
     <p>
-        <a href="https://github.com/humanplusplus/EarEEG_DemoApp">Click();</a>
+        <a href="https://github.com/humanplusplus/ReFocus">Click();</a>
         // to check my current project
     </p>
 </h1>
